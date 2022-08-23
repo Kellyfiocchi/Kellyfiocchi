@@ -1,4 +1,4 @@
-### Olá eu sou a Kelly!
+### Olá eu sou a Kelly Fiochi!👋🏼
 👩🏻‍🎓2° Semestre em Gestão de Tecnologia da Informação.
 
 📖 Curso em andamento de Teste de Software (EBAC).
