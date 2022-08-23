@@ -10,6 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kellyfiocchi&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellyfiocchi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Tecnologias que eu uso no meu dia.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
