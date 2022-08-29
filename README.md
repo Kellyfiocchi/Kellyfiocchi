@@ -22,5 +22,7 @@
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
+
+### Redes
 ![discor](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![linkedin](https://img.shields.io/badge/LinkedIn-937574235?style=for-the-badge&logo=linkedin&logoColor=white)
