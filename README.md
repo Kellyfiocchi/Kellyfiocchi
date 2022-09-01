@@ -38,6 +38,6 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-  <img src="https://media.discordapp.net/attachments/974833536114757713/1014957861295640636/picasion.com_d730040688d46965ad70428de8e8cd82.gif">
+  <img align= "right" src="https://media.discordapp.net/attachments/974833536114757713/1014957861295640636/picasion.com_d730040688d46965ad70428de8e8cd82.gif">
  
 </div>
