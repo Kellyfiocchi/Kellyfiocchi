@@ -35,9 +35,6 @@
  	<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kelly-fiochi-937574235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-  <img align= "right" src="https://media.discordapp.net/attachments/974833536114757713/1014957861295640636/picasion.com_d730040688d46965ad70428de8e8cd82.gif">
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)<img align= "right" src="https://media.discordapp.net/attachments/974833536114757713/1015013634239381634/picasion.com_82729651e8186510fe07c73069d6c61f.gif">
  
 </div>
