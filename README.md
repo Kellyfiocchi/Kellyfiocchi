@@ -12,8 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Kellyfiocchi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kellyfiocchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellyfiocchi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kellyfiocchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellyfiocchi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   
@@ -38,5 +37,7 @@
   <a href="https://www.linkedin.com/in/kelly-fiochi-937574235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  <img src="https://media.discordapp.net/attachments/974833536114757713/1014957861295640636/picasion.com_d730040688d46965ad70428de8e8cd82.gif">
  
 </div>
