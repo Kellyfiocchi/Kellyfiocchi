@@ -2,7 +2,7 @@
 👩🏻‍🎓3° Semestre em Gestão de Tecnologia da Informação.
 
 
-📖 Curso em andamento de Teste de Software (EBAC).
+✅Teste de Software (EBAC).
 
 💻Estudando frameworks para testes.
 
