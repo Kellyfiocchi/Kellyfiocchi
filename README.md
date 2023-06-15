@@ -1,5 +1,5 @@
 ## Oiii eu sou a Kelly Fiochi
-👩🏻‍🎓3° Semestre em Gestão de Tecnologia da Informação.
+👩4° Semestre em Gestão de Tecnologia da Informação.
 
 
 ✅Teste de Software (EBAC).
