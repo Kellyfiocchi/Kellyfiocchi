@@ -1,9 +1,8 @@
 ## Oiii eu sou a Kelly Fiochi
 👩🏻‍💻4° Semestre em Gestão de Tecnologia da Informação.
 
-
 ✅Teste de Software (EBAC).
-
+💼Engenheira de Qualidade de Software (Evolve Tec)
 💻Estudando frameworks para testes.
 
 
