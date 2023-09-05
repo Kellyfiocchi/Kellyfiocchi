@@ -5,16 +5,19 @@
 
 💼Engenheira de Qualidade de Software (Evolve Tec)
 
-💻Estudando frameworks para testes.
+💻Estudo de frameworks para testes.
 
 
 
 
 <div align="center">
   <a href="https://github.com/Kellyfiocchi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kellyfiocchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellyfiocchi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kellyfiocchi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><img height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellyfiocchi&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
+
+ ## Ferramentas 🛠️
   
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,9 +33,10 @@
 
 </div>
   
-  ## Redes
+  ## Contato ✉️
  
 <div> 
+  
   <a href = "mailto:fiocchi1989@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kelly-fiochi-937574235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
