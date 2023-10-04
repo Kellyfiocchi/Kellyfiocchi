@@ -3,7 +3,7 @@
 
 ✅Teste de Software (EBAC).
 
-💼Engenheira de Qualidade de Software (Evolve Tec)
+💼Engenheira de Qualidade de Software
 
 💻Estudo de frameworks para testes.
 
