@@ -7,14 +7,13 @@
 
 💻Estudo de frameworks para testes.
 
-
-
-
-<div align="center">
-  <a href="https://github.com/Kellyfiocchi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kellyfiocchi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/><img height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kellyfiocchi&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+    <a href="https://github.com/Kellyfiocchi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kellyfiocchi" />
+</a>
+<a href="https://github.com/Kellyfiocchi/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kellyfiocchi&layout=compact&langs_count=8&card_width=320" />
+</a>
 <div style="display: inline_block"><br>
 
  ## Ferramentas 🛠️
