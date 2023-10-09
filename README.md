@@ -9,8 +9,7 @@
 
 </div>
     <a href="https://github.com/Kellyfiocchi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kellyfiocchi" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kellyfiocchi" /></a>
 <a href="https://github.com/Kellyfiocchi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kellyfiocchi&layout=compact&langs_count=8&card_width=320" />
 </a>
