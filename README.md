@@ -1,5 +1,5 @@
 ## Olá, eu sou a Kelly Fiochi
-👩🏻‍💻 Estudante do 5° Semestre em Gestão de Tecnologia da Informação.
+ 👩🏼‍🎓 Formada em Gestão de Tecnologia da Informação.
 
 ✅ Teste de Software (EBAC).
 
