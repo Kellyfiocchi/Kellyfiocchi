@@ -1,7 +1,7 @@
 ## Olá, eu sou a Kelly Fiochi
  👩🏼‍🎓 Formada em Gestão de Tecnologia da Informação.
 
-✅ Teste de Software (EBAC).
+🐞 Teste de Software (EBAC).
 
 💼 QA Engineer (Engenheira de Qualidade de Software)
 
