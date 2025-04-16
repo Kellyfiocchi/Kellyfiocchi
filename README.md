@@ -7,7 +7,7 @@
 
 💻 Especialista em Testes de Software e Frameworks
 
-![Kelly Fiochi GitHub stats](https://github-readme-stats.vercel.app/api?username=Kellyfiocchi&show_icons=true&theme=dark)
+![Kelly Fiochi GitHub stats](https://github-readme-stats.vercel.app/api?username=Kellyfiocchi&show_icons=true&theme=tokyonight)
 
 
 ---
